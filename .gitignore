@@ -2,3 +2,5 @@ finetuned_yamnet/
 AudioSet/
 YamNet_Transfer_Learning.h5
 converted_model.tflite
+test_dataset
+train_dataset
